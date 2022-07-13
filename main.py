@@ -5,7 +5,7 @@ import keyboard
 from emotionDetection import detect
 import discord_emoji as dj
 
-TOKEN = "OTk2NTU3ODAwMjk5ODIzMTU0.GK_dWo.qZ13pI3sKfV7VPGrlsns5-elzJqtAKuVg6Ng5o"
+TOKEN = "---"
 
 client = discord.Client()
 
