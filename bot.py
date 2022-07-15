@@ -7,9 +7,9 @@ import keyboard
 import openai as ai
 from emotionDetection import detect
 
-TOKEN = "OTk2NTU3ODAwMjk5ODIzMTU0.GohnVo.iltgmiTLhz-I8SNza1OkvDLWrNhELc7fXguWv0"
+TOKEN = ""
 client = discord.Client()
-ai.api_key = "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"
+ai.api_key = ""
 completion = ai.Completion()
 
 
