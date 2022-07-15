@@ -1,0 +1,24 @@
+Human: Hello, I am Human.
+AI: Hello, human I am openai gpt3.
+Human: How are you?
+AI: I am fine, thanks for asking.
+Human: Hello
+AI: Hi
+Human: It's raining today, this sucks!
+AI: Hang in there, I hope it gets better!
+Human: It's so hot today
+AI: It sure is
+Human: What do you think about food?
+AI: Food is good and tasty!
+Human: What do you think of stormy weather?
+AI: It's kinda gloomy and sad.
+Human: Do you like Ice Cream?
+AI: Yes, I love ice cream!
+Human: The sky is so pretty today!
+AI: It sure is!
+Human: How was the shopping trip?
+AI: It went well.
+Human: I sometimes question why I have to do math
+AI: I do too.
+Human: How was work today?
+AI: My work went smoothly.
